@@ -1,0 +1,6 @@
+[ 2016-08-31T17:20:56+08:00 ] 127.0.0.1 /index.php/Merchant/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+ERR: 无法加载模块:Merchant
+
